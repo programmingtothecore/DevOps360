@@ -1,0 +1,65 @@
+1. Can you tell us about your total work experience?
+✅ Yes, I have around 3 years of total work experience.
+🔹 I’ve worked with a main focus on DevOps over the course of 3 years.
+
+2. How many years of relevant experience do you have as a DevOps Engineer?
+✅ 3 years
+🔹 I’ve been working hands-on with CI/CD, cloud infrastructure, and automation for 3 years now.
+
+3. Can you demonstrate 3-5 years of experience with common DevOps practices such as CI/CD pipelines (GitLab), containerization and orchestration (Docker, ECS, EKS, Helm), and infrastructure as code (Terraform)?
+✅ Yes
+🔹 I have in-depth experience with GitLab CI/CD, Docker, Kubernetes (EKS, Helm), and Terraform. I’ve built and maintained scalable infrastructure using these tools.
+
+4. Are you comfortable working independently, breaking down high-level objectives into concrete key results, and implementing them?
+✅ Yes
+🔹 I am capable of working independently as well as in a team and love following a structured approach to achieve milestones.
+
+5. Are you able to work with AWS from day one, and do you have familiarity with AWS services beyond EC2, such as Fargate, RDS, IAM, and Lambda?
+✅ Yes
+🔹 I have experience with AWS beyond EC2, including Fargate, RDS, IAM, Lambda, and several other managed services.
+
+6. Do you have good knowledge of configuring logging and monitoring infrastructure with tools like ELK, Prometheus, CloudWatch, and Grafana?
+✅ Yes
+🔹 I’ve set up centralized logging and monitoring using Prometheus, Grafana, Pyroscope in production environments.
+
+7. Are you knowledgeable about agile software development processes?
+✅ Yes
+🔹 I’ve worked in agile teams, collaborating with developers and stakeholders to streamline DevOps practices.
+
+8. Do you have the right demeanor to navigate within a complex global organization and get things done? Are you proactive, stress-resistant, and willing to support the team?
+✅ Yes
+🔹 I stay proactive, adapt well under pressure, and always focus on solutions rather than problems.
+
+9. What is your highest qualification?
+🎓 [Bachelor's in Computer Engineering with and aggregate overall CGPA of 8.96]
+🔹 My educational background has given me a strong foundation in IT and software development.
+
+10. What is your Last company name?
+🏢 [Monetize360]
+🔹 Last worked as a [DevOps Engineer] at [Monetize360].
+
+11. What is your current CTC?
+💰 [14 LPA]
+
+12. What is your expected CTC?
+💰 [16 LPA]
+🔹 Open to discussions based on the role and responsibilities.
+
+13. What is your current location?
+📍 [Pune]
+🔹 Based in [Pune], but open to relocation if required.
+
+14. Are you serving a notice period? If yes, when is your last working day?
+✅ [Yes/No] – NO
+🔹 Notice Period Completed Last Date was: 07/01/2025.
+
+15. Are you comfortable with Pune as a work location?
+✅ Yes
+🔹 Pune works well for me as a work location.
+
+Bonus Skills:
+I also have experience with:
+
+Python and JavaScriptAWS tools like Lake Formation, Glue, Athena, Firehose, SageMaker, and EMR Studio
+Event-driven services like Step Functions, SQS, SNS, EventBridge, and DynamoDB
+Would love to discuss this further. Attached is my updated CV! 🚀
