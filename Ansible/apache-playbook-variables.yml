@@ -1,0 +1,26 @@
+---
+#host is group name from inventory
+- name: Apache Installation
+  hosts: webservers
+  become: true
+  vars:
+    app: Apache2
+
+  tasks:
+  - name: Update OS
+    command: apt update
+
+  - name: Installing Apache2
+    apt:
+      name: "{{ app }}"
+      state: present
+
+  - name: Apache Service Start
+    service: 
+      name: "{{ app }}"
+      state: started
+
+  - name: Copy config file
+    copy:
+      src: index.html
+      dest: /var/www/html/index.html           
