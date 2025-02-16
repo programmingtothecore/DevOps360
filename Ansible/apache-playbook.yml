@@ -1,0 +1,24 @@
+---
+#host is group name from inventory
+- name: Apache Installation
+  hosts: webservers
+  become: true
+
+  tasks:
+  - name: Update OS
+    command: apt update
+
+  - name: Installing Apache2
+    apt:
+      name: Apache2
+      state: present
+
+  - name: Apache Service Start
+    service: 
+      name: Apache2
+      state: started
+
+  - name: Copy config file
+    copy:
+      src: index.html
+      dest: /var/www/html/index.html           
